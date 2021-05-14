@@ -19,3 +19,4 @@ Our client would like to invest in the shop we are trying open on the island of 
 *  Precipitation is not a good gauge in the case of Oahu as it rains almost every day for about 20 minutes. (Nothing like experience - lived there for a while as a kid :smile:).
 * It would be better to look all the winter month temps collectively to get a worst case scenario, but remembering that people like to vacation from other colder climates during those months.
 * Examine sunrise/sunset trends in all months as Oahu is closer to equater.  This may give an indication of when ice cream sales and surfing equipment may be sold.
+* Look at booking dates from open sources such as travel companies may be a good idea.

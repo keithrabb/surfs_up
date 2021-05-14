@@ -16,4 +16,4 @@ Our client would like to invest in the shop we are trying open a shop on the isl
 ![dectemp_deliv1](Resources/dectemp_deliv1.PNG)
 
 ## Insights for Additional Study
-*  Precipitation is not really a good gauge in the case of Oahu as it rains almost every day for about 20 minutes. (Nothing like experience 😄).
+*  Precipitation is not a good gauge in the case of Oahu as it rains almost every day for about 20 minutes. (Nothing like experience - lived there for a while as a kid :smile:).
